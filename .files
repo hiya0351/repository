@@ -1,0 +1,6 @@
+*.doc
+*.txt
+file4.txt
+cat *.txt
+
+
